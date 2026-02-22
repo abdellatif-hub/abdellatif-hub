@@ -48,6 +48,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7C52D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+Flutter;Always+Building+🚀"/>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🚀 Frontend
