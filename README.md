@@ -53,7 +53,7 @@
 </p>
 
 --pp -
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdellatif-hub&theme=tokyo-night)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000000&height=200&section=header&text=Abdellatif%20El%20Hamaoui&fontSize=35&fontColor=ffffff"/>
 
 ---
 
