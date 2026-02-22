@@ -15,15 +15,13 @@
 </picture>
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
+  
+<img src="https://img.shields.io/badge/FIFA%2025-2E8B57?style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GTA%20V-DC143C?style=for-the-badge"/>
 
-## 🎮 Interests
-
-⚽ Football  
-🎮 Competitive Games  
-💡 Technology & Innovation  
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
 
 
