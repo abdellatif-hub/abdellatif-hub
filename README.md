@@ -1,6 +1,5 @@
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/abdellatif-hub/abdellatif-hub/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdellatif-hub/abdellatif-hub/blob/output/github-contribution-grid-snake-dark.svg">
