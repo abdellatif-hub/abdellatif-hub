@@ -52,7 +52,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7C52D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+Flutter;Always+Building+🚀"/>
 </p>
 
---pp -
+--pp --
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000000&height=200&section=header&text=Abdellatif%20El%20Hamaoui&fontSize=35&fontColor=ffffff"/>
 
 ---
