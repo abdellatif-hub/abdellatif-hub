@@ -14,14 +14,25 @@
   <img alt="github contribution snake" src="https://github.com/abdellatif-hub/abdellatif-hub/blob/output/github-contribution-grid-snake.svg">
 </picture>
 ---
+<br/>
+
+<h2 align="center">🎮 Gaming Arena</h2>
 
 <div align="center">
-  
-<img src="https://img.shields.io/badge/FIFA%2025-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EA%20Sports%20FC-1E7F3F?style=for-the-badge&logo=ea&logoColor=white"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GTA%20V-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FIFA-2E8B57?style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Call%20of%20Duty-000000?style=for-the-badge&logo=callofduty&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Strategy%20%26%20Competitive-4B0082?style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/eFootball-0057B8?style=for-the-badge"/>
 
 </div>
+
+<br/>
 
 
 
