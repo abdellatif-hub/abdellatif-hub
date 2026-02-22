@@ -15,12 +15,15 @@
 </picture>
 ---
 
-## 🎮 Favorite Games
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- ⚽ FIFA / EA Sports FC
-- 🔫 Call of Duty
-- 🧠 Strategy & Competitive Games
-- 🎯 eFootball
+## 🎮 Interests
+
+⚽ Football  
+🎮 Competitive Games  
+💡 Technology & Innovation  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
