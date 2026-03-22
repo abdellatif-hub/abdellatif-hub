@@ -1,24 +1,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdellatif%20El%20Hamaoui&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+Flutter;Building+Scalable+Apps+🚀;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C9FF&center=true&vCenter=true&width=700&lines=Développeur+Full+Stack;React+%7C+Laravel+%7C+Flutter;Création+d'applications+scalables+🚀;Toujours+en+apprentissage" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 À propos de moi
 
-🎓 3rd-year Software Engineering Student  
-💻 Full Stack Developer (React / Laravel / Node.js)  
-📱 Mobile Developer (Flutter)  
-📍 Casablanca, Morocco  
+🎓 Étudiant en 3ème année – Génie Logiciel  
+💻 Développeur Full Stack (React / Laravel / Node.js)  
+📱 Développeur Mobile (Flutter)  
+📍 Casablanca, Maroc  
 
-🚀 Passionate about building **modern, scalable, and user-friendly applications**  
-💡 Interested in **AI, Cloud, and DevOps**
+🚀 Passionné par le développement d’applications **modernes, performantes et évolutives**  
+💡 Intéressé par **l’IA, le Cloud et le DevOps**
 
 ---
 
-# 🧠 Tech Stack
+# 🧠 Compétences techniques
 
 ## 🚀 Frontend
 <p>
@@ -30,53 +30,19 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </p>
 
-## 🗄️ Database
+## 🗄️ Bases de données
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-## 🛠️ Tools & DevOps
+## 🛠️ Outils & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,jira" />
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-## 🤖 Chatbot RAG Multimodal
-> Mobile App using AI for intelligent information retrieval  
-- AI-powered search  
-- Multimodal interaction  
-- Smart responses  
-
----
-
-## 🏠 Housing Search App (Hackathon)
-> Find housing based on price & location  
-- Advanced filtering  
-- Clean UI  
-- Fast search  
-
----
-
-## 🚌 Transport Platform (Hackathon)
-> Web & Mobile app for transport booking in Casablanca  
-- Reservation system  
-- Real-time data  
-- User-friendly interface  
-
----
-
-## 🌐 Legends Club Platform
-> Official university club website  
-- Event management  
-- Activity showcase  
-- Responsive design  
-
----
-
-# 📊 GitHub Stats
+# 📊 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdellatif-hub&show_icons=true&theme=tokyonight" />
@@ -86,7 +52,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Graphique de contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellatif-hub&theme=react-dark" />
@@ -112,7 +78,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Call%20of%20Duty-000000?style=for-the-badge&logo=callofduty&logoColor=white"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Strategy%20%26%20Competitive-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stratégie%20%26%20Compétitif-4B0082?style=for-the-badge"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/eFootball-0057B8?style=for-the-badge"/>
 
@@ -120,31 +86,38 @@
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 En cours d’apprentissage
 
 - ☁️ Cloud Computing (AWS)
 - 🤖 Machine Learning
-- ⚙️ Microservices Architecture
-- 🚀 CI/CD Pipelines
+- ⚙️ Architecture Microservices
+- 🚀 CI/CD
 
 ---
 
-# 📫 Contact Me
+# 📫 Me contacter
 
 <p align="center">
   <a href="https://linkedin.com/in/abdellatif-elhamaoui">
     <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20El%20Hamaoui-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:abdellatifelhamaoui14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdellatifelhamaoui14%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <br/><br/>
-  📍 Casablanca, Morocco  
-  📞 +212 631 136 234  
+</p>
+
+<p align="center">
+
+📧 <b>Email :</b>  
+<a href="mailto:abdellatifelhamaoui14@gmail.com">abdellatifelhamaoui14@gmail.com</a>
+
+📋 <b>Copier :</b>  
+`abdellatifelhamaoui14@gmail.com`
+
+📞 <b>Téléphone :</b> +212 631 136 234  
+📍 Casablanca, Maroc  
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Always learning. Always building.</b> 🚀
+  ⭐ <b>Toujours apprendre. Toujours créer.</b> 🚀
 </p>
