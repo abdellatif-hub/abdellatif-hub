@@ -8,7 +8,7 @@
 
 # 👨‍💻 À propos de moi
 
-🎓 Étudiant en 3ème année – Génie Logiciel  
+🎓 Étudiant en 3ème année – Développement Logiciel   
 💻 Développeur Full Stack (React / Laravel / Node.js)  
 📱 Développeur Mobile (Flutter)  
 📍 Casablanca, Maroc  
