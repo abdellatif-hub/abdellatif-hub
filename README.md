@@ -104,6 +104,8 @@
 </p>
 
 <p align="center">
+🔗 <b>Portfolio :</b>  
+<a href="mailto:https://abdellatif-el-hamaoui.netlify.app">Abdellatif El Hamaoui-Portfolio</a>
 
 📧 <b>Email :</b>  
 <a href="mailto:abdellatifelhamaoui14@gmail.com">abdellatifelhamaoui14@gmail.com</a>
