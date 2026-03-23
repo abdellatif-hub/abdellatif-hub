@@ -106,7 +106,7 @@
 <p align="center">
 
 
-🔗 <b>linkedin :</b>  
+🔗 <b>Linkedin :</b>  
 <a href="https://www.linkedin.com/in/abdellatif-elhamaoui/">in/abdellatif-elhamaoui</a>
 
 
