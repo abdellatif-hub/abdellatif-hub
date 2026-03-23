@@ -106,10 +106,15 @@
 <p align="center">
 
 
-📧 <b>Email :</b>  
-<a href="mailto:abdellatifelhamaoui14@gmail.com">abdellatifelhamaoui14@gmail.com</a>
 🔗 <b>Portfolio :</b>  
 <a href="https://abdellatif-el-hamaoui.netlify.app">Abdellatif El Hamaoui-Portfolio</a>
+
+
+
+
+📧 <b>Email :</b>  
+<a href="mailto:abdellatifelhamaoui14@gmail.com">abdellatifelhamaoui14@gmail.com</a>
+
 📋 <b>Copier :</b>  
 `abdellatifelhamaoui14@gmail.com`
 
