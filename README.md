@@ -102,19 +102,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20El%20Hamaoui-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-<p align="center">
-  <a href="https://linkedin.com/in/abdellatif-elhamaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20El%20Hamaoui-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
 <p align="center">
-🔗 <b>Portfolio :</b>  
-<a href="https://abdellatif-el-hamaoui.netlify.app">Abdellatif El Hamaoui-Portfolio</a>
+
 
 📧 <b>Email :</b>  
 <a href="mailto:abdellatifelhamaoui14@gmail.com">abdellatifelhamaoui14@gmail.com</a>
-
+🔗 <b>Portfolio :</b>  
+<a href="https://abdellatif-el-hamaoui.netlify.app">Abdellatif El Hamaoui-Portfolio</a>
 📋 <b>Copier :</b>  
 `abdellatifelhamaoui14@gmail.com`
 
