@@ -107,7 +107,7 @@
 
 
 🔗 <b>linkedin :</b>  
-<a href="https://www.linkedin.com/in/abdellatif-elhamaoui/"in/abdellatif-elhamaoui</a>
+<a href="https://www.linkedin.com/in/abdellatif-elhamaoui/">in/abdellatif-elhamaoui</a>
 
 
 🔗 <b>Portfolio :</b>  
